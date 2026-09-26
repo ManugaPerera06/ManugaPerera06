@@ -9,7 +9,9 @@ I'm a Software Engineering undergraduate passionate to building clean, accessibl
 - 🎓 Currently pursuing a degree in **Software Engineering**.
 - 🧠 Interested in Full-Stack Development and Machine Learning applications.
 - 👯 Looking to collaborate on open-source projects or group software initiatives.
-- 📬 How to reach me: **manuga.006@gmail.com** | **www.linkedin.com/in/manuga-perera-332a46334**
+- 📬 How to reach me:
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manuga.006@gmail.com) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuga-perera-332a46334)
 
 ---
 
